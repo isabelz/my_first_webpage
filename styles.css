@@ -1,0 +1,50 @@
+.title
+{
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+}
+
+.description
+{
+    color: purple;
+    font-size: 90px;
+    text-align: center;
+    border:dotted; 
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.div1
+{
+    width: 500px;
+    margin: auto;
+    background-color: pink
+}
+
+.image {
+    width: 500px;
+    position: relative;
+    left: 20px;
+}
+
+.chart {
+    width: 1000px;
+    height: 100px;
+    position: relative;
+}
+
+.circ1 {
+	stroke:green;
+	fill:white;
+	stroke-width:5;
+}
+
+.circ2 {
+	stroke:pink;
+	fill:#F6D8CE;
+	stroke-width:10;
+}
+
